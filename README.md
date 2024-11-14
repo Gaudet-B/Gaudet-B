@@ -3,7 +3,9 @@
 
 ---
 
-I'm a recent coding bootcamp graduate (I've left all those repos untouched as artifacts) who is looking for freelancing and open source work.
+I'm a web developer with three years of professional experience working the full stack, but specialize in front end technologies.
+
+Specifically, I have a passion for the React.JS ecosystem and have found endless enjoyment in building unique user experiences since transitioning from hospitality to software during the pandemic.
 
 My most relevant projects are pinned.
 
